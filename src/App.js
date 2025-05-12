@@ -3,6 +3,7 @@ import "./App.css";
 import Navbar from "./components/Navbar";
 import Orb from "./components/Orb";
 import Banner from "./components/Banner";
+import AboutMe from "./components/AboutMe";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         />
         <Banner></Banner>
       </div>
+      <AboutMe></AboutMe>
     </div>
 
   );
