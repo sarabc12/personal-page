@@ -8,6 +8,7 @@ import Project from "./components/Project";
 import WebPages from "./components/WebPages";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Applications from "./components/Applications";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -37,6 +38,7 @@ function App() {
           <Route path="/webpages" element={<WebPages />} />
           <Route path="/application" element={<Applications />} />
         </Routes>
+        <Footer></Footer>
       </div>
     </Router>
   );

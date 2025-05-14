@@ -1,0 +1,9 @@
+.footer {
+  border-top: 1px solid rgba(128, 128, 128, 0.1);
+  font-family: inherit;
+}
+
+.footer-text {
+  color: #EBEBEB;
+  font-size: 17px;
+}
