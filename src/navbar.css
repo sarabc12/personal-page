@@ -1,3 +1,11 @@
+.Navbar {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  width: 100%;
+}
+
+
 .navbar-container {
   background-color: #050505;
   display: flex;
@@ -5,9 +13,13 @@
   align-items: center;
 }
 
+.navbar-logo {
+  margin-left: 100px;
+}
+
 .buttons-container {
   display: flex;
-  margin-right: 15px;
+  margin-right: 100px;
 }
 
 
