@@ -16,7 +16,7 @@
   border: none;
   outline: none;
   color: rgb(255, 255, 255);
-  background: #111;
+  background: #050505;
   cursor: pointer;
   position: relative;
   z-index: 0;
@@ -34,7 +34,7 @@
     #6F4A8E,
     #221F3B,
     #050505,
-    #EBEBEB,
+    #70bee8,
     #2E073F,
     #7A1CAC,
     #AD49E1,
