@@ -1,0 +1,14 @@
+.application {
+  color: white;
+}
+
+.webpages-cards img {
+  height: 300px;
+  width: auto;
+  border-radius: 15px;
+  box-shadow: 1px 1px 1px #2c2c2c;
+}
+
+.webpages-cards img:hover {
+  transform: scale(1.02);
+}
