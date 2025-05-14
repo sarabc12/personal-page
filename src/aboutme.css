@@ -10,15 +10,20 @@
 
 .languages {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  margin-left: 250px;
+  grid-template-columns: repeat(6, 1fr);
+  margin-left: 100px;
 }
 
 .languages img {
-  width: 80px;
+  width: 70px;
   height: auto;
 }
 
 .description {
   flex: 1;
+  color: #EBEBEB;
+  font-size: 12px;
+  text-align: left;
+  border-left: 1px solid gray;
+  padding-left: 20px;
 }
