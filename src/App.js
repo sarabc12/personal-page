@@ -9,6 +9,7 @@ import WebPages from "./components/WebPages";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Applications from "./components/Applications";
 import Footer from "./components/Footer";
+import Contact from "./components/Contact";
 
 function App() {
   return (
@@ -32,6 +33,7 @@ function App() {
                 </div>
                 <AboutMe />
                 <Project />
+                <Contact></Contact>
               </>
             }
           />
