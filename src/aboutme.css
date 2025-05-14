@@ -4,8 +4,11 @@
   align-items: flex-start;
   gap: 40px;
   padding: 20px;
-  margin-top: 32px;
+  margin-top: 200px;
+  margin-bottom: 300px;
   align-items: center;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 
 .languages {

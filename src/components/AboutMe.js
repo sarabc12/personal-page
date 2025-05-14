@@ -20,7 +20,8 @@ export default function AboutMe() {
       </div>
       <div className="description">
         <h1>Hi, I'm Sara.
-          I'm passionate about software development and genuinely enjoy the process of learning new technologies. The journey hasn't always been easy, but coding challenges motivate me to keep going. I'm driven by curiosity, determination, and a real excitement for building things that make a difference.</h1>
+          From the moment I wrote my first line of code, I knew I had found something special. There's something incredibly fulfilling about turning ideas into real, working products. Whether it's solving bugs or exploring new technologies, I find joy in the entire process.
+          I'm driven by curiosity, determination, and a real excitement for building things that make a difference.</h1>
       </div>
     </div>
 
