@@ -14,12 +14,13 @@ export default function AboutMe() {
         <img src="images/javascript.png" alt="javascript"></img>
         <img src="images/nodejs.png" alt="nodejs"></img>
         <img src="images/heroku.png" alt="heroku"></img>
-        <img src="images/github.png" alt="github"></img>
+        <img src="images/github.png" alt="github" style={{filter: "invert(1)"}} ></img>
         <img src="images/restAPI.png" alt="restapi"></img>
         <img src="images/react.png" alt="react"></img>
       </div>
       <div className="description">
-        <h1>description</h1>
+        <h1>Hi, I'm Sara.
+          I'm passionate about software development and genuinely enjoy the process of learning new technologies. The journey hasn't always been easy, but coding challenges motivate me to keep going. I'm driven by curiosity, determination, and a real excitement for building things that make a difference.</h1>
       </div>
     </div>
 
