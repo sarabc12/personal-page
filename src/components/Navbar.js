@@ -13,7 +13,7 @@ export default function Navbar() {
           </Link>
         </a>
         <div className="buttons-container">
-          <ScrollLink to="about" smooth={true} duration={1000} className="btn">About Me</ScrollLink>
+          <ScrollLink to="about" smooth={true} duration={1000} offset={-70} className="btn">About Me</ScrollLink>
           <ScrollLink to="project" smooth={true} duration={1000} className="btn">Project</ScrollLink>
           <ScrollLink to="contact" smooth={true} duration={1000} className="btn">Contact me</ScrollLink>
         </div>
