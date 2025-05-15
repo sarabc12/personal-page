@@ -31,9 +31,15 @@ function App() {
                   />
                   <Banner />
                 </div>
-                <AboutMe />
-                <Project />
-                <Contact></Contact>
+                <section id="about">
+                  <AboutMe />
+                </section>
+                <section id="project">
+                  <Project />
+                </section>
+                <section id="contact">
+                  <Contact></Contact>
+                </section>
               </>
             }
           />

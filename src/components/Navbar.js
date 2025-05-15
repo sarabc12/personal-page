@@ -1,6 +1,7 @@
 import React from "react";
 import "../navbar.css";
 import { Link } from "react-router-dom";
+import { Link as ScrollLink} from "react-scroll";
 
 export default function Navbar() {
   return(
@@ -12,9 +13,9 @@ export default function Navbar() {
           </Link>
         </a>
         <div className="buttons-container">
-          <button className="btn">About Me</button>
-          <button className="btn">Project</button>
-          <button className="btn">Contact me</button>
+          <ScrollLink to="about" smooth={true} duration={1000} className="btn">About Me</ScrollLink>
+          <ScrollLink to="project" smooth={true} duration={1000} className="btn">Project</ScrollLink>
+          <ScrollLink to="contact" smooth={true} duration={1000} className="btn">Contact me</ScrollLink>
         </div>
 
       </div>
