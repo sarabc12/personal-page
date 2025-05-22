@@ -22,3 +22,15 @@
 .contact a:hover {
   color: #6F4A8E;
 }
+
+@media (max-width: 600px) {
+  .contact h1 {
+    font-size: 34px;
+  }
+
+  .contact a {
+    display: inline-block;
+    margin: 10px;
+    font-size: 28px;
+  }
+}
