@@ -13,7 +13,7 @@ export default function AboutMe() {
         <img src="images/bootstrap.png" alt="bootstrap"></img>
         <img src="images/javascript.png" alt="javascript"></img>
         <img src="images/nodejs.png" alt="nodejs"></img>
-        <img src="images/heroku.png" alt="heroku"></img>
+        <img src="images/rubyonrails.png" alt="ror"></img>
         <img src="images/github.png" alt="github" style={{filter: "invert(1)"}} ></img>
         <img src="images/restAPI.png" alt="restapi"></img>
         <img src="images/react.png" alt="react"></img>
